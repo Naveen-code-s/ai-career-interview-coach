@@ -1,0 +1,5 @@
+.streamlit/secrets.toml
+.env
+career_coach.db
+__pycache__/
+*.pyc
